@@ -1,0 +1,3 @@
+[submodule "django-twitter-clone"]
+	path = django-twitter-clone
+	url = git@github.com:aerabi/django-twitter-clone.git
